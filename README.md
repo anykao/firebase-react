@@ -1,0 +1,3 @@
+* firebase
+* reactjs
+* typescript
